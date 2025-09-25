@@ -42,9 +42,3 @@ A MERN application that lets an admin log in, create/manage agents, upload a CSV
    - Dashboard → shows Total Agents, Total Uploads(files), Total Records (leads)
    - Agents → list/create/delete agents
    - Upload → pick CSV/XLSX and submit to view per-agent distribution tables
-
-
-
-
-
-Video demonstration (Google Drive): <YOUR_LINK_HERE>
